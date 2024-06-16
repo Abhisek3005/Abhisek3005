@@ -5,12 +5,22 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+I'm Abhisek Das, currently pursuing  B.Tech at Gandhi Institute for Technology. I specialize in Python development and web application penetration testing, with a keen interest in cybersecurity.
+
+#### 🔧 Technologies & Tools
+- **Skills**: Python Developer, Web App Pentesting
+- **Programming Languages**: Python, HTML, CSS
+- **Frameworks**: Django, Metasploit
+- **Cybersecurity Tools**: Burp Suite, Nmap, Maltego, Wireshark, Kali Linux
+
+#### 🌱 Currently Working On
+- **Website with Django**: Created a website using Django, focusing on robust and secure web development practices.
+
+#### 🌟 Interests
+- Cybersecurity: Exploring and learning about the latest tools and techniques in cybersecurity.
+- Web Development: Building secure and efficient web applications.
+
+Thanks for visiting my profile!
+
