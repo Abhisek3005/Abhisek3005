@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 
 
-I'm Abhisek Das, currently pursuing  B.Tech at Gandhi Institute for Technology. I specialize in Python development and web application penetration testing, with a keen interest in cybersecurity.
+I'm ##Abhisek Das, currently pursuing  B.Tech at Gandhi Institute for Technology. I specialize in Python development and web application penetration testing, with a keen interest in cybersecurity.
 
 #### 🔧 Technologies & Tools
 - **Skills**: Python Developer, Web App Pentesting
