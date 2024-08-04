@@ -11,7 +11,7 @@ I'm Abhisek Das, currently pursuing  B.Tech at Gandhi Institute for Technology. 
 - **Cybersecurity Tools**: Burp Suite, Nmap, Maltego, Wireshark, Kali Linux
 
 #### 🌱 Currently Working On
-- **Website with Django**: Creating a website using Django, focusing on robust and secure web development practices.
+- **Junior Penetration Testter**: Learning and Exploiting Vulnerabilities in Operating System .
 
 #### 🌟 Interests
 - Cybersecurity: Exploring and learning about the latest tools and techniques in cybersecurity.
